@@ -1,0 +1,46 @@
+body {
+
+    background-color: #eee;
+  }
+.container {
+    width: 900px;
+    margin: auto auto 50px auto;
+    background-color: white;
+    padding-bottom: 10px;
+    box-shadow: 30px 30px 20px rgba(0, 0, 0, 0.2), -30px 30px 20px rgba(0, 0, 0, 0.2);
+  }
+
+  .Title {
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .Text{
+      color: white;
+      border-left-style:  dotted;
+      border-right-style: dotted;
+      border-width: 1px;
+      padding: 0 6px 0 6px;
+  }
+
+  .waterfall{
+      width: 900px;
+      height: 75vh;
+      display: block;
+  }
+
+  .Title2{
+      text-align: center;
+  }
+
+  .Contact{
+      text-align: center;
+      padding-bottom: 30px;
+  }
+
+  .B{
+      text-decoration: none;
+  }
